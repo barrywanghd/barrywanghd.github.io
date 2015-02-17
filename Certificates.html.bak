@@ -37,7 +37,7 @@
           <ul class="nav nav-justified">
             <li><a href="index.html">Home</a></li>
             <li><a href="experiences.html">Experiences</a></li>
-            <li><a href="project.html">Project </a></li>
+            <li><a href="Project.html">Project </a></li>
             <li><a href="References.html">References</a></li>
             <li class="active"><a href="Certificates.html">Certificates</a></li>
             <li><a href="#">Contact</a></li>
