@@ -100,7 +100,7 @@
  
             <!-- Site footer -->
             <footer class="footer">
-                <span class="glyphicon glyphicon-envelope">work hard, have fun, make history!</span>  &nbsp;&nbsp;&nbsp;
+                <span>work hard, have fun, make history!</span>  &nbsp;&nbsp;&nbsp;
                 <!--<p>&copy; Company 2014</p>-->
             </footer>
 
