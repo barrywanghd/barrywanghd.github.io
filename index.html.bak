@@ -40,7 +40,7 @@
                         <li><a href="Certificates.html">Certificates</a></li>
                         <li class="disabled"><a href="#">AsOne</a></li>  
                         <li class="disabled"><a href="#">References</a></li>
-                        <li><a href="topics.html">Topics</a></li>
+                        <li><a href="Topics.html">Topics</a></li>
                     </ul>
                 </nav>
             </div>
@@ -101,7 +101,7 @@
                 <div class="col-lg-4">
                     <h2>Topics </h2> 
                     <p>My interested areas regarding project management, information technology etc. </p>
-                    <p><a class="btn btn-primary" href="topics.html" role="button">View details &raquo;</a></p>
+                    <p><a class="btn btn-primary" href="Topics.html" role="button">View details &raquo;</a></p>
                   </br>
                 </div>
             </div>

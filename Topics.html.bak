@@ -92,6 +92,26 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                Conflict Management
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            <ul>
+                            	  <li> <a href="https://www.liquidplanner.com/blog/10-killer-interview-questions-hiring-project-managers/">10 Killer Interview Questions for Hiring Project Managers</a> </li>
+                                <li> <a href="http://www.jrothman.com/htp/agile-job-search/2013/12/six-tips-for-answering-project-and-program-manager-interview-questions/">Six Tips for Answering Project and Program Manager Interview Questions </a> </li>
+                                <li> <a href="https://www.linkedin.com/pulse/21-top-interview-questions-project-manager-job-teresa">21 Top Interview Questions for a Project Manager Job</a> </li>
+                                <li> <a href="http://www.slideshare.net/projectcareer/top-14-project-management-interview-questions-and-answers-33073123/">175 Project Manager Interview Questions and Answers</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
               </div>
             <!-- Site footer -->
             <footer class="footer">
