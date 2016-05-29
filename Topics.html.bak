@@ -38,7 +38,7 @@
                         <li><a href="Certificates.html">Certificates</a></li>
                         <li class="disabled"><a href="#">AsOne</a></li>   
                         <li class="disabled"><a href="#">References</a></li>
-                        <li class="active disabled"><a href="#">Topics</a></li>
+                        <li class="active"><a href="Topics.html">Topics</a></li>
                     </ul>
                 </nav>
             </div>
@@ -50,15 +50,52 @@
             <!-- Jumbotron -->
             <div class="jumbotron">
                 <h1 class="text-info"><i>Topics, Interested Area, Hobbies</i></h1>
-<!--                <p class="lead  text-info"><i>email:&nbsp;barry.wang.hd@gmail.com</i></p>
-                <p class="lead  text-info"><i>phone:&nbsp;(0064)273651442</i></p>
-                <p class="lead  text-info"><i>linkedIn:&nbsp;barry.wang.hd@gmail.com</i></p>-->
-            </div>
-            </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+            </div>    
+               <div class="panel-group"  role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Project Management Methodologies
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <ul>
+                                <li> PMP - Project Management Profressional </li>
+                                <li> Prince2 - Projects in a Controlled Environment </li>
+                                <li> MSP - Managing Successful Programmes </li>
+                                <li> ITIL Version 3 </li>                               
+                                <li> CSM - Certified Scrum Master </li>                                
+                            </ul>                          
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                Project Manager Interview
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            <ul>
+                            	  <li> <a href="https://www.liquidplanner.com/blog/10-killer-interview-questions-hiring-project-managers/">10 Killer Interview Questions for Hiring Project Managers</a> </li>
+                                <li> <a href="http://www.jrothman.com/htp/agile-job-search/2013/12/six-tips-for-answering-project-and-program-manager-interview-questions/">Six Tips for Answering Project and Program Manager Interview Questions </a> </li>
+                                <li> <a href="https://www.linkedin.com/pulse/21-top-interview-questions-project-manager-job-teresa">21 Top Interview Questions for a Project Manager Job</a> </li>
+                                <li> <a href="http://www.slideshare.net/projectcareer/top-14-project-management-interview-questions-and-answers-33073123/">175 Project Manager Interview Questions and Answers</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+              </div>
             <!-- Site footer -->
             <footer class="footer">
-                <span class="glyphicon glyphicon-envelope">:barry.wang.hd@gmail.com</span>  &nbsp;&nbsp;&nbsp;
-                <span class="glyphicon glyphicon-phone">:(0064)273651442/(0086)13811097069</span>  &nbsp;&nbsp;&nbsp;
+               <span >work hard, have fun, make history!</span>  &nbsp;&nbsp;&nbsp;
                 <!--<p>&copy; Company 2014</p>-->
             </footer>
 
