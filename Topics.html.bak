@@ -115,16 +115,18 @@
                     <div class="panel-heading" role="tab" id="headingTwo">
                         <h4 class="panel-title">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                useful website
+                                Useful Website & Recommended Learning
                             </a>
                         </h4>
                     </div>
                     <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
                         <div class="panel-body">
                             <ul>
+                            	  <li> <a href="https://lynda.com/">Creating an Effective Resume</a> </li>
                             	  <li> <a href="https://www.liquidplanner.com/">www.liquidplanner.com</a> </li>
                                 <li> <a href="http://projectmanagementhacks.com/">Project Management Hacks</a> </li>
                                 <li> <a href="http://www.jrothman.com/">www.jrothman.com/</a> </li>
+                                <li> <a href="https://www.amazon.jobs/en/principles">AMAZON Leadership Principles/</a> </li>
                             </ul>
                         </div>
                     </div>
