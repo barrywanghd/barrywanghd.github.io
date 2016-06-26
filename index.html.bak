@@ -36,9 +36,9 @@
                     <ul class="nav nav-justified">
                         <li class="active"><a href="index.html">Home</a></li>
                         <li><a href="experiences.html">Experiences</a></li>
-                        <li><a href="Project.html">A Project</a></li>                  
-                        <li><a href="Certificates.html">Certificates</a></li>
-                        <li class="disabled"><a href="#">AsOne</a></li>  
+                        <li><a href="Project.html">A Project</a></li>   
+                        <li class="disabled"><a href="#">AsOne</a></li>                                  
+                        <li><a href="Certificates.html">Certificates</a></li> 
                         <li class="disabled"><a href="#">References</a></li>
                         <li><a href="Topics.html">Topics</a></li>
                     </ul>
